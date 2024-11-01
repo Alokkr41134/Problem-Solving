@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Alokkr41134/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
