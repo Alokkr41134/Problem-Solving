@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isCircularSentence(string sentence) {
-           istringstream iss(sentence);
+          istringstream iss(sentence);
         vector<string> words;
         string word;
 
