@@ -51,5 +51,10 @@
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
