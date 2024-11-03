@@ -39,6 +39,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alokkr41134/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
