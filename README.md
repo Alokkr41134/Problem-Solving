@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
