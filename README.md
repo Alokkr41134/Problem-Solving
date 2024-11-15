@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Alokkr41134/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Tree
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Alokkr41134/Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Alokkr41134/Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -58,6 +61,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alokkr41134/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
 |  |
@@ -117,4 +121,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Alokkr41134/Problem-Solving/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
