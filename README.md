@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Alokkr41134/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0787-sliding-puzzle](https://github.com/Alokkr41134/Problem-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Alokkr41134/Problem-Solving/tree/master/1755-defuse-the-bomb) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Alokkr41134/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0787-sliding-puzzle](https://github.com/Alokkr41134/Problem-Solving/tree/master/0787-sliding-puzzle) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Alokkr41134/Problem-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Alokkr41134/Problem-Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/2089-maximum-matrix-sum) |
