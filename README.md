@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Alokkr41134/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Alokkr41134/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alokkr41134/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
