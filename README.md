@@ -173,4 +173,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/0053-maximum-subarray) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Alokkr41134/Problem-Solving/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
