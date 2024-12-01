@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/Alokkr41134/Problem-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Alokkr41134/Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Alokkr41134/Problem-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -72,6 +74,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Alokkr41134/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Alokkr41134/Problem-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alokkr41134/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Alokkr41134/Problem-Solving/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -127,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
