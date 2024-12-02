@@ -83,6 +83,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alokkr41134/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/Alokkr41134/Problem-Solving/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
