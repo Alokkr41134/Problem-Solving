@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Alokkr41134/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/Alokkr41134/Problem-Solving/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/Alokkr41134/Problem-Solving/tree/master/0792-binary-search) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0792-binary-search](https://github.com/Alokkr41134/Problem-Solving/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
