@@ -46,6 +46,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Alokkr41134/Problem-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Alokkr41134/Problem-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Alokkr41134/Problem-Solving/tree/master/2716-prime-subtraction-operation) |
@@ -81,6 +82,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Alokkr41134/Problem-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
@@ -190,6 +193,7 @@
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Alokkr41134/Problem-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +210,7 @@
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Alokkr41134/Problem-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Alokkr41134/Problem-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
