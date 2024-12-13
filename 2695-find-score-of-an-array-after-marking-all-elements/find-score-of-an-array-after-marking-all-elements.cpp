@@ -1,37 +1,39 @@
 class Solution {
 public:
-   long long findScore(vector<int>& nums) {
-        int n = (int)nums.size();
+    long long findScore(vector<int>& nums) {
+        int n = nums.size();
+
+        vector<bool> visited(n,false);
+
+        priority_queue<pair<int,int> ,vector<pair<int,int>> ,greater<pair<int,int>>> pq;
         
-        // Min-heap: stores pairs of (value, index)
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> pq;
-        for (int i = 0; i < n; i++) {
-            pq.push({nums[i], i});
+        for(int i=0 ; i<n ;i++){
+            pq.push({nums[i],i});
         }
 
-        vector<bool> marked(n, false);
-        long long score = 0;
+        long long score =0;
 
-        while (!pq.empty()) {
-            auto [val, idx] = pq.top();
-            pq.pop();
+        while(!pq.empty()){
 
-            // If already marked, skip
-            if (marked[idx]) continue;
+           pair<int,int> temp = pq.top(); 
+           int ele = temp.first;
+           int idx = temp.second;
+           pq.pop();
 
-            // Add to score and mark
-            score += val;
-            marked[idx] = true;
-
-            // Mark neighbors if unmarked
-            if (idx - 1 >= 0 && !marked[idx - 1]) {
-                marked[idx - 1] = true;
+           if(visited[idx] == false){
+            visited[idx]=true;
+            score+=ele;
+            if(idx-1 >=0 && visited[idx-1]==false){
+                visited[idx-1]=true;
             }
-            if (idx + 1 < n && !marked[idx + 1]) {
-                marked[idx + 1] = true;
+            if(idx+1 <= n && visited[idx+1]==false){
+                visited[idx+1]=true;
             }
+
+           }
         }
 
         return score;
+        
     }
 };
