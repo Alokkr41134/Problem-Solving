@@ -50,6 +50,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Alokkr41134/Problem-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Alokkr41134/Problem-Solving/tree/master/2716-prime-subtraction-operation) |
+| [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Alokkr41134/Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Alokkr41134/Problem-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -159,6 +160,7 @@
 | [1755-defuse-the-bomb](https://github.com/Alokkr41134/Problem-Solving/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Alokkr41134/Problem-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Alokkr41134/Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Alokkr41134/Problem-Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
@@ -212,6 +214,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Alokkr41134/Problem-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Alokkr41134/Problem-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
 ## Shortest Path
 |  |
 | ------- |
@@ -221,4 +224,16 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Alokkr41134/Problem-Solving/tree/master/2201-valid-arrangement-of-pairs) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
