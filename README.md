@@ -124,11 +124,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Alokkr41134/Problem-Solving/tree/master/0050-powx-n) |
 | [2716-prime-subtraction-operation](https://github.com/Alokkr41134/Problem-Solving/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Alokkr41134/Problem-Solving/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
