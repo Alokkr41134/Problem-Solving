@@ -110,6 +110,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/2232-adding-spaces-to-a-string) |
@@ -201,6 +202,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/0053-maximum-subarray) |
 ## Graph
 |  |
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
