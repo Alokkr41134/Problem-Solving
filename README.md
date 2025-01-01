@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Alokkr41134/Problem-Solving/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Alokkr41134/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/Alokkr41134/Problem-Solving/tree/master/0787-sliding-puzzle) |
@@ -135,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Alokkr41134/Problem-Solving/tree/master/0078-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
@@ -244,4 +246,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Alokkr41134/Problem-Solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
