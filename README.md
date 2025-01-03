@@ -46,6 +46,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Alokkr41134/Problem-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Alokkr41134/Problem-Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Alokkr41134/Problem-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/Alokkr41134/Problem-Solving/tree/master/2358-number-of-ways-to-split-array) |
 ## Sliding Window
 |  |
 | ------- |
