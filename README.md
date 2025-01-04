@@ -83,6 +83,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Alokkr41134/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Alokkr41134/Problem-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -116,6 +117,7 @@
 | [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Alokkr41134/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Alokkr41134/Problem-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Alokkr41134/Problem-Solving/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Alokkr41134/Problem-Solving/tree/master/0078-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Alokkr41134/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Alokkr41134/Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -161,6 +164,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Alokkr41134/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Alokkr41134/Problem-Solving/tree/master/2358-number-of-ways-to-split-array) |
 ## Sliding Window
 |  |
