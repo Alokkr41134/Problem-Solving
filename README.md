@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Alokkr41134/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Alokkr41134/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Alokkr41134/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 ## Graph
 |  |
 | ------- |
@@ -255,4 +257,5 @@
 | [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Alokkr41134/Problem-Solving/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Alokkr41134/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
