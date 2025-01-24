@@ -132,12 +132,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Alokkr41134/Problem-Solving/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Alokkr41134/Problem-Solving/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/Alokkr41134/Problem-Solving/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Alokkr41134/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Alokkr41134/Problem-Solving/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Alokkr41134/Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Alokkr41134/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [1013-fibonacci-number](https://github.com/Alokkr41134/Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Graph
 |  |
 | ------- |
@@ -258,4 +261,8 @@
 | [0039-combination-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Alokkr41134/Problem-Solving/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Alokkr41134/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Alokkr41134/Problem-Solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
