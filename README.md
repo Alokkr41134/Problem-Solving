@@ -56,6 +56,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Alokkr41134/Problem-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2868-continuous-subarrays](https://github.com/Alokkr41134/Problem-Solving/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Alokkr41134/Problem-Solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Alokkr41134/Problem-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Alokkr41134/Problem-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Alokkr41134/Problem-Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
