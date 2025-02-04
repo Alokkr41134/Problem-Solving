@@ -39,6 +39,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Alokkr41134/Problem-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Alokkr41134/Problem-Solving/tree/master/1755-defuse-the-bomb) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Alokkr41134/Problem-Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/2089-maximum-matrix-sum) |
