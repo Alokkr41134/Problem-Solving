@@ -87,6 +87,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alokkr41134/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Alokkr41134/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -122,6 +123,7 @@
 | [0131-palindrome-partitioning](https://github.com/Alokkr41134/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alokkr41134/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Alokkr41134/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Alokkr41134/Problem-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -166,6 +168,7 @@
 ## Counting
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alokkr41134/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Alokkr41134/Problem-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
 |  |
