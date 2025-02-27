@@ -84,6 +84,7 @@
 | [0001-two-sum](https://github.com/Alokkr41134/Problem-Solving/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Alokkr41134/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alokkr41134/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Alokkr41134/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Alokkr41134/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Alokkr41134/Problem-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Alokkr41134/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Alokkr41134/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Alokkr41134/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Alokkr41134/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Alokkr41134/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -160,6 +162,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Alokkr41134/Problem-Solving/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Alokkr41134/Problem-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Alokkr41134/Problem-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Alokkr41134/Problem-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
